@@ -15,7 +15,7 @@ import { CssBaseline } from '@mui/material'
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <SnackbarProvider>
-      <CssBaseline />
+      <CssBaseline /> 
       <App />
     </SnackbarProvider>
   </React.StrictMode>,
